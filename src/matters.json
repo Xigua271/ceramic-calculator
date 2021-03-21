@@ -1,0 +1,8 @@
+{
+	"calcinatedAlumine" : {
+		"groups": [],
+		"label" : "Alumine Calcinée",
+		"providers" : ["Céradel"],
+		"molarComposition" : [["AL2O3", 1]]
+	},
+}
